@@ -1,4 +1,3 @@
-#include <NewPing.h>
 // THE TIRES OF THE ARDUINO
 const int REV1 = 7;
 const int FWD1 = 6;
